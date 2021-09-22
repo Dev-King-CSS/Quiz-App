@@ -6,7 +6,3 @@ Asks you different questions if ran in browser. Let's see how much you get it co
 Contributing would be a big help to me from you
 
 **Thanks : )**
-
-```diff
-- text in red (maybe)
-```
